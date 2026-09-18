@@ -1,0 +1,22 @@
+# Virtual Environments & Pytest
+.venv/
+venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Environment Variables
+.env
+.env.local
+
+# Dataset files
+*.csv
+
+# Logs & OS
+*.log
+.DS_Store
